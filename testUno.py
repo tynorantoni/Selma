@@ -2,7 +2,7 @@ print("hello world")
 
 def first_function():
     for x in range(10):
-        print(x)
+        print(2*x)
 
 
 
