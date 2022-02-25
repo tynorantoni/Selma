@@ -1,11 +1,13 @@
-print("hello world")
+import unittest
+class TestClass(unittest.TestCase):
 
-def first_function():
-    for x in range(10):
-        print(4*x)
+    def testIsEquals(self):
+        self.assertTrue(2==2,"Si")
+        self.assertEqual(3,3,"no")
 
 
+    if __name__ == "__main__":
+        unittest.main()
 
 
-if __name__ == "__main__":
-    first_function()
+    
