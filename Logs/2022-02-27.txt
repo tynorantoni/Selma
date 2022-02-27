@@ -1,0 +1,3 @@
+[2022-02-27 21:47:47] - (functioc_doing_nothing) - testing 1 2 3 
+[2022-02-27 21:47:54] - (functioc_doing_nothing) - testing 1 2 3 
+[2022-02-27 21:48:21] \- (functioc_doing_nothing) \- testing 1 2 3 
