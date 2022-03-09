@@ -7,5 +7,6 @@ def read_credentials():
     for element in list_of_values:
         element = element.split(',')
         dicConfigData[element[0]]=element[1].rstrip("\n")
+        
     return dicConfigData
 
