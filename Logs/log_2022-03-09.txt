@@ -1,0 +1,16 @@
+[2022-03-09 08:50:52] - (delete_file) - deleting file 
+[2022-03-09 08:51:25] - (delete_file) - deleting file 
+[2022-03-09 08:51:39] - (delete_file) - deleting file 
+[2022-03-09 08:55:38] - (delete_file) - deleting file 
+[2022-03-09 08:58:48] - (delete_file) - deleting file 
+[2022-03-09 09:03:53] - (delete_file) - deleting file 
+[2022-03-09 09:04:44] - (delete_file) - no message 
+[2022-03-09 09:04:44] - (delete_file) - [WinError 2] Nie mo¿na odnaleŸæ okreœlonego pliku: 'x' 
+[2022-03-09 09:05:11] - (delete_file) - message 
+[2022-03-09 09:05:11] - (delete_file) - [WinError 2] Nie mo¿na odnaleŸæ okreœlonego pliku: 'x' 
+[2022-03-09 09:05:41] - (delete_file) - message 
+[2022-03-09 09:20:01] - (delete_file) - message 
+[2022-03-09 09:20:10] - (delete_file) - no message 
+[2022-03-09 09:20:58] - (delete_file) - no message 
+[2022-03-09 09:21:15] - (delete_file) - deleting file 
+[2022-03-09 09:23:42] - (delete_file) - deleting 
